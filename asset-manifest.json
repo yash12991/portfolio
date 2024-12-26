@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/yash12991/portfolio.git/static/css/main.f4fd0979.css",
-    "main.js": "/yash12991/portfolio.git/static/js/main.4688318c.js",
-    "static/js/488.e1714dfd.chunk.js": "/yash12991/portfolio.git/static/js/488.e1714dfd.chunk.js",
+    "main.js": "/yash12991/portfolio.git/static/js/main.aa7e28bc.js",
+    "static/js/488.9561f9b8.chunk.js": "/yash12991/portfolio.git/static/js/488.9561f9b8.chunk.js",
     "static/media/insta-logo.png": "/yash12991/portfolio.git/static/media/insta-logo.224086b53da9e0c96f6c.png",
     "static/media/linkedin-logo.png": "/yash12991/portfolio.git/static/media/linkedin-logo.df0b60e21a577da16c9b.png",
     "static/media/facebook-logo.png": "/yash12991/portfolio.git/static/media/facebook-logo.bd586533aeddbae07a99.png",
@@ -11,11 +11,11 @@
     "static/media/light.png": "/yash12991/portfolio.git/static/media/light.cf45815a03e0de1e68a3.png",
     "index.html": "/yash12991/portfolio.git/index.html",
     "main.f4fd0979.css.map": "/yash12991/portfolio.git/static/css/main.f4fd0979.css.map",
-    "main.4688318c.js.map": "/yash12991/portfolio.git/static/js/main.4688318c.js.map",
-    "488.e1714dfd.chunk.js.map": "/yash12991/portfolio.git/static/js/488.e1714dfd.chunk.js.map"
+    "main.aa7e28bc.js.map": "/yash12991/portfolio.git/static/js/main.aa7e28bc.js.map",
+    "488.9561f9b8.chunk.js.map": "/yash12991/portfolio.git/static/js/488.9561f9b8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f4fd0979.css",
-    "static/js/main.4688318c.js"
+    "static/js/main.aa7e28bc.js"
   ]
 }
