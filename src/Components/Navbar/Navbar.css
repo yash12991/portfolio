@@ -1,0 +1,84 @@
+/* Header Styling */
+.header {
+  display: flex;
+  justify-content: space-between; /* Adjust to space the items */
+  padding: 16px;
+  box-shadow: 0 1px 3px -2px black;
+  background-color: rgb(10, 0, 156);
+  align-items: center;
+  
+}
+
+/* Navbar Options Styling */
+.options {
+  display: flex;
+  align-items: center;
+  gap: 50px;
+}
+
+/* Button Styling */
+.options button {
+  background-color: aqua;
+  cursor: pointer;
+  border: 1px solid black;
+  border-radius: 75px;
+  padding: 10px 20px; /* Added padding for better button sizing */
+  font-weight: bold;  /* Added bold font for emphasis */
+  transition: all 0.3s ease-out; /* Smooth transition for all properties */
+}
+
+/* Button Active State */
+.options button:active {
+  background-color: red;
+  transform: scale(0.98); /* Added scaling effect when button is pressed */
+}
+
+/* Button Hover State */
+.options button:hover {
+  background-color: lightcoral; /* Subtle change on hover */
+  transform: scale(1.05); /* Slight scale increase for hover effect */
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.4);
+}
+
+/* Header Title Styling */
+
+
+/* Optional: Styling for smaller screens (Responsiveness) */
+@media screen and (max-width: 480px) {
+  .header{
+    position: relative;
+    flex-direction: column;
+  }
+  .options{
+    flex-direction: column;
+    gap: 10px;
+    align-items: center;
+   
+    position: relative;
+  }
+
+  .options button {
+    width: 100%; /* Full-width buttons */
+    font-size: 1rem;
+    
+  }
+  .heading{
+    
+    margin-left: -50%;
+    position: relative;
+   
+  }
+}
+
+.dark-img{
+  border-radius: 20%;
+  
+  width: 60px;
+  transition: box-shadow 0.3s ease; /* Smooth transition effect */
+  cursor: pointer;
+  align-self: flex-end;
+}
+.dark-img:hover{
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.4); /* Adds shadow when hovered */
+}
+
